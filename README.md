@@ -1,4 +1,3 @@
-# adguard-home-icons
 Multi-resolution Windows (.ico) and macOS (.icns) desktop shortcut icons for AdGuard Home
 
 # AdGuard Home Desktop Icons
@@ -12,7 +11,7 @@ Official SVG and PNG logos are available in the [AdGuard Media Materials](https:
 
 ### Instructions: Windows (10, 11)
 1. Download `adguard_win.ico` (or extract it from `adguard_win.zip`) to a permanent folder.
-2. Create a shortcut to your AdGuard Home dashboard URL (e.g., `http://127.0.0`).
+2. Create a shortcut to your AdGuard Home dashboard URL (e.g., `http://127.0.0.`).
 3. Right-click the shortcut, select **Properties**, click **Change Icon...**, choose `adguard_win.ico`, and click **OK**.
 
 ### Instructions: macOS
@@ -24,7 +23,7 @@ Official SVG and PNG logos are available in the [AdGuard Media Materials](https:
 | Windows (`.ico`) | macOS (`.icns`) |
 | :---: | :---: |
 | <img width="64" height="64" alt="adguard_win_64x64_32bit" src="https://github.com/user-attachments/assets/f07e4260-562c-4070-960f-c4c67546aefd" /> | <img width="64" height="64" alt="adguard_mac_64x64_32bit" src="https://github.com/user-attachments/assets/94aed5e2-d98c-449a-b3c3-e8ed60af0bfd" /> |
-| `adguard.ico` | `adguard.icns` |
+| `adguard_win.ico` | `adguard_mac.icns` |
 
 ---
 *Derived from the official [AdGuard Media Materials](https://adguard.com). TM and © Adguard Software Ltd.*
