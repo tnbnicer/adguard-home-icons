@@ -11,7 +11,7 @@ Official SVG and PNG logos are available in the [AdGuard Media Materials](https:
 
 ### Instructions: Windows (10, 11)
 1. Download `adguard_win.ico` (or extract it from `adguard_win.zip`) to a permanent folder.
-2. Create a shortcut to your AdGuard Home dashboard URL (e.g., `http://127.0.0.`).
+2. Create a shortcut to your AdGuard Home dashboard URL (e.g., `http://127.0.0.1:8080`).
 3. Right-click the shortcut, select **Properties**, click **Change Icon...**, choose `adguard_win.ico`, and click **OK**.
 
 ### Instructions: macOS
@@ -26,4 +26,6 @@ Official SVG and PNG logos are available in the [AdGuard Media Materials](https:
 | `adguard_win.ico` | `adguard_mac.icns` |
 
 ---
+For use with [AdGuard Home](https://github.com/AdguardTeam/AdGuardHome) · Related proposal: [Discussion #8725](https://github.com/AdguardTeam/AdGuardHome/discussions/8725)
+
 *Derived from the official [AdGuard Media Materials](https://adguard.com). TM and © Adguard Software Ltd.*
